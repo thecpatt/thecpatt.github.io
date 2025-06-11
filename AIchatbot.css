@@ -23,9 +23,9 @@
 }
 
 #AI-chatHeader {
-    background-color: #1f2937;
+    background-color: #ffcc00;
     color: #ffffff;
-    padding: 0.75rem;
+    padding: 0.5rem;
     border-top-left-radius: 0.75rem;
     border-top-right-radius: 0.75rem;
     display: flex;
@@ -60,7 +60,7 @@
     right: 1.25rem;
     width: 3.5rem;
     height: 3.5rem;
-    background-color: #1f2937;
+    background-color: #ffcc00;
     color: #ffffff;
     border-radius: 9999px;
     box-shadow: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
@@ -74,7 +74,7 @@
 }
 
 #AI-chatToggleButton:hover {
-    background-color: #374151;
+    background-color: #756b44;
 }
 
 #AI-chatToggleButton svg {
